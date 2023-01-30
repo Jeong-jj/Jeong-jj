@@ -1,5 +1,5 @@
 <!-- Top banner -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=f7d49b&height=300&section=header&text=Hello,%20I'm%20Jeong&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=who%20wanna%20be%20Front-End%20Developer&descSize=25&descAlign=50&descAlignY=52" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=f7d49b&height=250&section=header&text=Hello,%20I'm%20Jeong&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=who%20wanna%20be%20Front-End%20Developer&descSize=25&descAlign=50&descAlignY=52" /></div>
 
 <!-- A visitor counter & SNS link icons -->
 <div align="center">
@@ -12,7 +12,6 @@
   <a href="mailto:rgfdds98@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=white&color=EA4335"/></a>&nbsp;
 </div>
 
-<br/>
 <br/>
 <br/>
 
@@ -38,26 +37,13 @@
   
   <br/>
 
-<a href="https://github.com/eungyeole/velog-readme-stats"><img src="https://velog-readme-stats.vercel.app/api?name=rgfdds98"/></a>
+<a href="https://velog.io/@rgfdds98"><img src="https://velog-readme-stats.vercel.app/api?name=rgfdds98"/></a>
 
 </div>
 
-<br>
-<br>
-<br>
-
-<h2 align="center">💻 My Activity 💻</h2>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=f7d49b&height=150&section=footer" /></div>
 
 <br/>
-
-<!-- Github stats & Top langs -->
-<div align="center" style="display:flex; justify-content:center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Jeong-jj&show_icons=true&theme=default&title_color=ffb84f&icon_color=88ff00" style="width: 50%;"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-jj&layout=compact&title_color=ffb84f" style="width: 49%;"></a>
-</div>
-
-<!-- Commit Graph -->
-<div align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jeong-jj&bg_color=fcfcfc&color=000&line=fae4bf&point=f9d498&area=true&area_color=f2dab3&radius=10"/></a></div>
 
 <!--
 **Jeong-jj/Jeong-jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
