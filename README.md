@@ -16,7 +16,7 @@ Now interest in
 
 <!-- [![Velog Stats](https://velog-readme-stats.vercel.app/api?name=rgfdds98)](https://velog.io/@rgfdds98) -->
 
-```javascript
+<!-- ```javascript
 {
   name: "JeongJun",
   position: "Front-End Developer",
@@ -27,6 +27,6 @@ Now interest in
     "Github"
   ]
 }
-```
+``` -->
 
 ![Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-jj&show_icons=false)
