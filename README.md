@@ -8,11 +8,12 @@
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=black&color=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React Badge](https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=black&color=61DAFB)](https://reactjs.org/)
 [![ReactQuery Badge](https://img.shields.io/badge/React&nbsp;Query-black?style=flat-square&logo=ReactQuery&logoColor=white&color=FF4154)](https://tanstack.com/query/v4/docs/react/overview)
-[![Github Badge](https://img.shields.io/badge/Github-white?style=flat-square&logo=Github&logoColor=white&color=181717)](https://github.com/)  
+[![Github Badge](https://img.shields.io/badge/Github-white?style=flat-square&logo=Github&logoColor=white&color=181717)](https://github.com/)
+[![Git Badge](https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=white&color=F05032)](https://git-scm.com/)
+
 Now interest in
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=TypeScript&logoColor=white&color=3178C6)](https://www.typescriptlang.org/)
 [![NextJS Badge](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=white&color=000000)](https://nextjs.org/)
-[![Git Badge](https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=white&color=F05032)](https://git-scm.com/)
 
 <!-- [![Velog Stats](https://velog-readme-stats.vercel.app/api?name=rgfdds98)](https://velog.io/@rgfdds98) -->
 
