@@ -40,7 +40,7 @@
 
 👨‍💻 **At work** ([@magpiie](https://github.com/magpiie))
 
-<img src="https://ghchart.rshah.org/magpiie" style="width: 100vw;" />
+<a href="https://github.com/magpiie" target="_blank"><img src="https://ghchart.rshah.org/magpiie" style="width: 100vw;" /></a>
 
 <!-- [![Velog Stats](https://velog-readme-stats.vercel.app/api?name=rgfdds98)](https://velog.io/@rgfdds98) -->
 
