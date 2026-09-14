@@ -2,8 +2,7 @@
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeong-jj&count_bg=%2381C74C&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-💻 **Frontend Developer**  
-🏠 _**About Me..**_ [**WebSite**](https://jeong-jj.github.io/introduction-react/) | [**Blog**](https://velog.io/@rgfdds98)
+💻 **Frontend Engineer**  
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white&color=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=white&color=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -35,12 +34,6 @@
 [![TailwindCSS Badge](https://img.shields.io/badge/Tailwind&nbsp;CSS-white?style=flat-square&logo=tailwindcss&logoColor=white&color=06B6D4)](https://tailwindcss.com/)
 [![NextJS Badge](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=white&color=000000)](https://nextjs.org/)
 [![Recoil Badge](https://img.shields.io/badge/Recoil-white?style=flat-square&logo=recoil&logoColor=white&color=3578E5)](https://recoiljs.org/)  
-
-<br/>
-
-👨‍💻 **At work** ([@magpiie](https://github.com/magpiie))
-
-<a href="https://github.com/magpiie" target="_blank"><img src="https://ghchart.rshah.org/magpiie" style="width: 100vw;" /></a>
 
 <!-- [![Velog Stats](https://velog-readme-stats.vercel.app/api?name=rgfdds98)](https://velog.io/@rgfdds98) -->
 
